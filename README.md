@@ -5,7 +5,7 @@ Cygwin notes.
 
 Name|Hotkey
 ---|---
-Clear screen|`^L`
+Clear screen|`^` `L`
 
 
 ## Command Pacakges
